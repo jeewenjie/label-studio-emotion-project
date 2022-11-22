@@ -2,7 +2,7 @@
 
 A custom label studio project for discrete emotion classification.
 
-## Quick Start
+## Usage
 
 1. Pull the official Label Studio image.
 ```bash
@@ -26,3 +26,12 @@ Password: 12345678
 ```
 
 5. Click on the Emotion Classification, upload all files for annotation and start annotating.
+
+## Progress
+
+- [x] Create custom audio annotation project.
+- [ ] Write scripts to convert export csv to Kaldi format.
+
+## License
+
+This software is licensed under the [Apache 2.0 LICENSE](https://github.com/heartexlabs/label-studio/blob/develop/LICENSE) © [Heartex](https://labelstud.io/). 2020-2021
